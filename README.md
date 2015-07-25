@@ -11,7 +11,7 @@
  - 本科/广西科技大学鹿山学院计算机系 
  - 工作年限：3年
  - 技术博客：[http://zhangdadi.github.io](http://zhangdadi.github.io)
- - Github:  [https://github.com/zhangdadi?tab=repositories](https://github.com/zhangdadi?tab=repositories)
+ - Github:  [https://github.com/zhangdadi](https://github.com/zhangdadi)
  
 ---
 ## 技能专长
