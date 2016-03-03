@@ -30,7 +30,7 @@
 ---
 ## 工作经历
 
-### 广西爱店汇网络科技有限公司 （ 2014年12月 ~ 2015年11月 ）
+### 广西爱店汇网络科技有限公司 （ 2014年12月 ~ 至今 ）
 #### 职位：项目副经理
 入职的三个月内由我负责的产品一直都是以全公司最快的速度开发完成并保证质量而多次得到同事、上级领导和老板的肯定和表扬，在入职的三个月后升职为副经理；主要协助经理完成技术部的管理工作。
 
@@ -123,15 +123,14 @@
 * 对ios 5 ~ ios 7间的不同版本进行适配和兼容。
 
 ---
-## 开源项目和作品
 
-### 开源项目
+## 开源项目
 
 * [object-c和c++混编的网络请求库](https://github.com/zhangdadi/HDNetWorkKit)
 * [很方便的聊天工具栏](https://github.com/zhangdadi/HDChatTextView)
 * [iOS开发之多表视图滑动切换示例（仿"头条"客户端)](https://github.com/zhangdadi/HDSliderTabBarExample)
 
-### 技术文章
+## 技术文章
 
 * [delegate不保留计数的多点回调？](http://zhangdadi.github.io/2014/10/21/ios-delegate/)
 
