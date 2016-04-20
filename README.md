@@ -9,7 +9,7 @@
 
  - 张达棣/男/1990 
  - 本科/广西科技大学鹿山学院计算机系 
- - 工作年限：3年
+ - 工作年限：4年
  - 技术博客：[http://zhangdadi.github.io](http://zhangdadi.github.io)
  - Github:  [https://github.com/zhangdadi](https://github.com/zhangdadi)
  
