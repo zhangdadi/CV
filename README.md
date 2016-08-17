@@ -129,13 +129,15 @@
 
 ## 开源项目
 
-* [object-c和c++混编的网络请求库](https://github.com/zhangdadi/HDNetWorkKit)
-* [很方便的聊天工具栏](https://github.com/zhangdadi/HDChatTextView)
-* [iOS开发之多表视图滑动切换示例（仿"头条"客户端)](https://github.com/zhangdadi/HDSliderTabBarExample)
+* swift语言封装网络请求框架：<https://github.com/zhangdadi/SwiftHttp>
+* 很方便的聊天工具栏：<https://github.com/zhangdadi/HDChatTextView>
+* iOS开发之多表视图滑动切换示例（仿"头条"客户端)：<https://github.com/zhangdadi/HDSliderTabBarExample>
 
 ## 技术文章
 
-* [delegate不保留计数的多点回调？](http://zhangdadi.github.io/2014/10/21/ios-delegate/)
+* delegate不保留计数的多点回调：<https://zhangdadi.github.io/blog/multipleCallback.html>
+* Block在ARC和MRC下的不同点：<https://zhangdadi.github.io/blog/blockDifferentia.html>
+
 
 ---
 ## 致谢
